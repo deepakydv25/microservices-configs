@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the Accounts Service - Production Environment"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@gamil.com"
+    email: "{cipher}61e4e3cc8b84f7633423af639959cc61afca1c20ff82b75b2fb9fe900bd52574"
   onCallSupport:
     - "123-456-7890"
     - "987-654-3210"
