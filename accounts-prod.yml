@@ -2,7 +2,7 @@ build:
   version: "3.0.0"
 
 accounts:
-  message: "Welcome to the Accounts Service - Production Environment"
+  message: "Welcome to the Accounts Service - Prod Environment"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}61e4e3cc8b84f7633423af639959cc61afca1c20ff82b75b2fb9fe900bd52574"
