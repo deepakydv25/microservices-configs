@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+loans:
+  message: "Welcome to the loans Service - QA Environment"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@gamil.com"
+  onCallSupport:
+    - "123-456-7890"
+    - "987-654-3210"
